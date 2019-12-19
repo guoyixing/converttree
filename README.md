@@ -1,3 +1,4 @@
+权限树通用解决方案（增强）：https://github.com/guoyixing/converttreex/tree/master
 # converttree
 权限树通用解决方案
 ##
